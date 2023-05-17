@@ -1040,3 +1040,11 @@ h4 {
         text-align: center;
     }
 }
+
+blockquote p {
+    font-size : 20px;
+    font-style: italic;
+}
+.color-writter {
+    color: rgba(0, 0, 0, .5)
+}
