@@ -1040,6 +1040,7 @@ h4 {
         text-align: center;
     }
 }
+/*modification*/
 
 blockquote p {
     font-size : 20px;
@@ -1047,4 +1048,8 @@ blockquote p {
 }
 .color-writter {
     color: rgba(0, 0, 0, .5)
+}
+
+ul {
+    list-style-type: none;
 }
