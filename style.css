@@ -1043,7 +1043,7 @@ h4 {
 /*modification*/
 
 blockquote p {
-    font-size : 20px;
+    font-size : 20px!important;
     font-style: italic;
 }
 .color-writter {
