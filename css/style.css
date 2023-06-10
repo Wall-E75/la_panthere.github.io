@@ -1056,3 +1056,8 @@ blockquote p {
 ul {
     list-style-type: none;
 }
+
+.logo-size {
+    width: 100px;
+    height: 100px;
+}
